@@ -72,7 +72,7 @@ One recipient:
 - Left padding: 10px
 - Right padding: 10px
 
-# Solution
+## Solution
 
 ```typescript
 <script lang="ts">
